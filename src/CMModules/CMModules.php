@@ -9,8 +9,8 @@ class CMModules extends CObject {
   /**
    * Properties
    */
-  private $asfdiaCoreModules = array('CAsdf', 'CDatabase', 'CRequest', 'CViewContainer', 'CSession', 'CObject');
-  private $asfdiaCMFModules = array('CForm', 'CCPage', 'CCBlog', 'CMUser', 'CCUser', 'CMContent', 'CCContent', 'CFormUserLogin', 'CFormUserProfile', 'CFormUserCreate', 'CFormContent', 'CHTMLPurifier');
+  private $asdfCoreModules = array('CAsdf', 'CDatabase', 'CRequest', 'CViewContainer', 'CSession', 'CObject');
+  private $asdfCMFModules = array('CForm', 'CCPage', 'CCBlog', 'CMUser', 'CCUser', 'CMContent', 'CCContent', 'CFormUserLogin', 'CFormUserProfile', 'CFormUserCreate', 'CFormContent', 'CHTMLPurifier');
 
 
   /**

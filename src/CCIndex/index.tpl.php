@@ -4,9 +4,9 @@
 <h2>Download</h2>
 <p>You can download Asdf from github.</p>
 <blockquote>
-<code>git clone git://github.com/mosbth/asdf.git</code>
+<code>git clone https://github.com/banestyrelsen/asdf</code>
 </blockquote>
-<p>You can review its source directly on github: <a href='https://github.com/mosbth/asdf'>https://github.com/mosbth/asdf</a></p>
+<p>You can review its source directly on github: <a href='https://github.com/banestyrelsen/asdf'>https://github.com/banestyrelsen/asdf</a></p>
 
 <h2>Installation</h2>
 <p>First you have to make the data-directory writable. This is the place where Asdf needs
