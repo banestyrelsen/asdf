@@ -10,6 +10,7 @@
 //
 // PHASE: BOOTSTRAP
 //
+
 define('ASDF_INSTALL_PATH', dirname(__FILE__));
 define('ASDF_SITE_PATH', ASDF_INSTALL_PATH . '/site');
 
